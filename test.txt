@@ -1,0 +1,13 @@
+There have been a number of papers about the I/O characteristics
+of storage workloads [16][12][18].
+Kozyrakis et al. [18] presented a system-wide characterization
+of large-scale online services provided by Microsoft and showed
+the implications of such workloads on data-center server design.
+Kavalanekar et al. [16] characterized large online services for storage
+system configuration and performance modeling. It contains
+a set of characteristics, including block-level statistics, multiparameter
+distributions and rankings of file access frequencies.
+Similarly, Delemitrou et al. [12] presented a concise statistical
+model which accurately captures the I/O access pattern of largescale
+applications including their spatial locality, inter-arrival times
+and type of accesses.
