@@ -1,1 +1,2 @@
-This is just a new file to test the functionality of git
+This is just a new file to test the functionality of git.
+This is a line that has just been added to the new branch
